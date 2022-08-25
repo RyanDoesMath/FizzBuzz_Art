@@ -1,5 +1,8 @@
 # FizzBuzz_Art
-A repository for "artistic" and interesting solutions to fizzbuzz.
+A repository for "artistic" and interesting solutions to fizzbuzz.  
+
+## Why does this exist?
+This repo is an exercise in writing and reading code that isn't developed for readability, speed, or utility. They are just solutions to fizzbuzz in many weird ways for their own sake. Its programming for fun just to see what kind of weird things you can make perform the same output.
 
 ## Rules
 A short list of self-explanitory rules for pull requests.
