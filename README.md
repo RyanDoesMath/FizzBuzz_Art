@@ -12,6 +12,7 @@ A short list of self-explanitory rules for pull requests.
 4. Solutions cannot reference outside files or import anything not in standard libraries.
 5. Solutions must be verifiably correct.
 6. Solutions must terminate in finite time. 
+7. Any and all of these rules can be violated if the solution is cool enough.
 
 ## Suggestions
 These are not strictly enforced, but are highly encouraged.  
